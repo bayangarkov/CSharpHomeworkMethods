@@ -30,9 +30,7 @@ namespace _07_TrickyStringBroken
                 {
                     result = result + currentString + delimiter;
                 }
-                
             }
-
             Console.WriteLine(result);
         }
     }
